@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Bunnylol logo" width="180">
+</p>
+
 # Bunny - URL Redirection Framework
 
 A Spring Boot application that provides a browser shortcut/redirection framework similar to bunnylol. This application allows you to configure custom commands in your browser's search to quickly navigate to websites.
